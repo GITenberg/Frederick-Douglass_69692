@@ -1,0 +1,30 @@
+_repo: Frederick-Douglass_69692
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2023-01-02'
+identifiers:
+  gutenberg: '69692'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924083528913
+pgterms:marc905: 20200608131208washington
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: George W. Jacobs & company,1906,copyright 1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Frederick Douglass
+url: http://www.gutenberg.org/ebooks/69692
