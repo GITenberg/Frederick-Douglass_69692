@@ -1,5 +1,8 @@
 _repo: Frederick-Douglass_69692
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69692-h/images/cover.jpg
 creator:
   author:
     agent_name: Washington, Booker T.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/880
     wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69692#Frederick-Douglass
 gutenberg_issued: '2023-01-02'
 identifiers:
   gutenberg: '69692'
